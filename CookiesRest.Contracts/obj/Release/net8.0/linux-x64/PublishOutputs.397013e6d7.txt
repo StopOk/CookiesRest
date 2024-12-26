@@ -1,0 +1,3 @@
+G:\@Cookie\Coding\Projects\Docker\ASP.NET 6 REST API\CookiesRest\out\CookiesRest.Contracts.dll
+G:\@Cookie\Coding\Projects\Docker\ASP.NET 6 REST API\CookiesRest\out\CookiesRest.Contracts.deps.json
+G:\@Cookie\Coding\Projects\Docker\ASP.NET 6 REST API\CookiesRest\out\CookiesRest.Contracts.pdb

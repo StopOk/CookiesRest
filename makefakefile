@@ -1,0 +1,3 @@
+dotnet sln add $(ls -r **/*.csproj)
+
+dotnet run --project ./CookiesRest.Api/

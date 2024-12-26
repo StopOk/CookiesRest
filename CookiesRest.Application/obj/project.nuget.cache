@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZI5LqNDu+U=",
+  "success": true,
+  "projectFilePath": "G:\\@Cookie\\Coding\\Projects\\Docker\\ASP.NET 6 REST API\\CookiesRest\\CookiesRest.Application\\CookiesRest.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renji\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

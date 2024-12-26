@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>112719c0-bab1-45c2-8137-51a0c038e27a</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CookiesRest.Contracts\CookiesRest.Contracts.csproj" />
+    <ProjectReference Include="..\CookiesRest.Application\CookiesRest.Application.csproj" />
+    <ProjectReference Include="..\CookiesRest.Infrastructure\CookiesRest.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

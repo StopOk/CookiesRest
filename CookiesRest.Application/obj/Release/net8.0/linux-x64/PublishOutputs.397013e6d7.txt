@@ -1,0 +1,6 @@
+G:\@Cookie\Coding\Projects\Docker\ASP.NET 6 REST API\CookiesRest\out\CookiesRest.Application.dll
+G:\@Cookie\Coding\Projects\Docker\ASP.NET 6 REST API\CookiesRest\out\CookiesRest.Application.deps.json
+G:\@Cookie\Coding\Projects\Docker\ASP.NET 6 REST API\CookiesRest\out\CookiesRest.Application.pdb
+G:\@Cookie\Coding\Projects\Docker\ASP.NET 6 REST API\CookiesRest\out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\@Cookie\Coding\Projects\Docker\ASP.NET 6 REST API\CookiesRest\out\CookiesRest.Domain.dll
+G:\@Cookie\Coding\Projects\Docker\ASP.NET 6 REST API\CookiesRest\out\CookiesRest.Domain.pdb
